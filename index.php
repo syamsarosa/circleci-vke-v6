@@ -6,5 +6,6 @@
 <body>
   <h1><?php echo "Hello from Vultr"; ?></h1>
   <p>Soemthing</p>
+  <p>Test Soemthing</p>
 </body>
 </html>
